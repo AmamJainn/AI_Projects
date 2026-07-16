@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+python-dotenv
+tavily-python
+rich
+requests
+streamlit
